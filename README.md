@@ -2,8 +2,6 @@
 
 **Desafio Kaggle**: https://www.kaggle.com/c/titanic
 
-**Autores:** [Wanderson Marques](https://www.linkedin.com/in/wanderson-dsm "Wanderson Marques") e [Rogério Rodrigues](https://www.linkedin.com/in/rogerionrc/ "Rogério Rodrigues").
-
 Repositório criado para controlar artefatos produzidos durante estudos sobre Data Science. O projeto, desenvolvido para participação em competição no Kaggle, foi estruturado conforme o CRISP-DM. Para cada fase da metodologia há um Jupyter Notebook associado:
 
 - [Business Understanding](https://github.com/wandersondsm/kaggle-titanic/blob/master/1%20-%20Business%20Understanding.ipynb "Business Understanding")
